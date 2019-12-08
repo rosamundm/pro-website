@@ -90,7 +90,7 @@ I'd prepared my presentation on Powerpoint and had some printed & highlighted no
       <li><strong>Berlin meetups:</strong>
         <a href="https://codebar.io/">Codebar</a>,
         <a href="https://berlin.pyladies.com/">Pyladies</a>,
-        <a href="http://heartofcode.org/">Heart of Code</a>
+        <a href="https://heartofcode.org/">Heart of Code</a>
       </li>
     </ul>
   <li>Some closing thoughts</li>

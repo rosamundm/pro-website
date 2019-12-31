@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Year in Books 2019"
+title:  "My year in books, 2019"
 date:   2019-12-31 12:17:16 +0100
 ---
 

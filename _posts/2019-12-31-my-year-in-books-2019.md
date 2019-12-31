@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "My Year in Books 2019"
+date:   2019-12-31 12:17:16 +0100
+---
+
 Even though this blog is about my web development, I think it's important to show a bit of the essence of who I am away from the keyboard. Besides, I've compiled these lists for years now, and I have no intention of stopping. Unlike in previous years, I didn't set an actual Goodreads goal, but I managed to hit 50, which is very satisfying.
 
 So: here are all the books I read in 2019, and if you click on the links, you can see my reviews (or at least what I thought of them in 1-2 sentences).

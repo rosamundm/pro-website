@@ -45,7 +45,7 @@ So: here are all the books I read in 2019, and if you click on the links, you ca
 <strong>35.</strong> Halle Butler - <em>The New Me</em> (4/5)<br>
 <strong>36.</strong> Jean Rhys - <em>Good Morning, Midnight</em> (3/5)<br>
 <strong>37.</strong> Alex Niven - <i>33⅓: Oasis' 'Definitely Maybe' </i>(4/5)<br>
-<strong>38.</strong> Emilie Wapnick - <a href="https://www.goodreads.com/review/show/3057008182"><em>How to Be Everything: A Guide for People Those Who (Still) Don't Know What They Want to Be When They Grow Up</em></a> (4/5)<br>
+<strong>38.</strong> Emilie Wapnick - <a href="https://www.goodreads.com/review/show/3057008182"><em>How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow Up</em></a> (4/5)<br>
 <strong>39.</strong> Rachel DeLoache Williams - <a href="https://www.goodreads.com/review/show/2872822276"><em>My Friend Anna: The True Story of the Fake Heiress Who Conned Me and Half of New York City</em></a> (3/5)<br>
 <strong>40.</strong> Anne Lamott - <em>Bird by Bird: Some Instructions on Writing and Life</em> (3/5)<br>
 <strong>41.</strong> Mariko Tamaki &amp; Rosemary Valero-O'Connell - <a href="https://www.goodreads.com/review/show/3065326584"><em>Laura Dean Keeps Breaking Up With Me</em></a> (3/5)<br>

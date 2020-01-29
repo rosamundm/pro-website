@@ -76,7 +76,7 @@ If you get this error when trying to run the development server:
 	Is the server running on host "<000>.<000>.<000>.<000>" and accepting
 	TCP/IP connections on port 5432?</code>
 
-Go to <code>/etc/postgresql/<version_number>/main</code> and run <code>sudo nano postgresql.conf</code>, then add port <code>5432</code> (it should be around line 64 of the file).
+Go to <code>/etc/postgresql/10/main</code> and run <code>sudo nano postgresql.conf</code>, then add port <code>5432</code> (it should be around line 64 of the file).
 
 If that doesn't work, run <code>service postgresql status</code> — hopefully the port will be active and everything will look okay. You can also run <code>netstat -na</code> to show your list of current, active internet connections, and if that doesn't work, try <code>ufw allow 5432/tcp</code> to open the port directly.
 

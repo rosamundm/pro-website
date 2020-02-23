@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Currently,** I'm a Content & QA Manager learning web development with a focus on Python/Django. In my "free" time I'm editing the first draft of my novel as well as researching and writing a non-fiction project.
+**Currently,** I'm a Content & QA Manager shifting towards a dev career, learning mainly Python/Django for now. In my free time I'm editing the first draft of my novel as well as researching and writing a non-fiction project (because I hate fun).
 
 **Formerly,** I wrote content and copy & translated it from German to English. For a while I thought it was my dream job, but things changed! Also, it turns out that I enjoy writing a lot more when I don't have to worry so much about making money from it or clients liking it.
 

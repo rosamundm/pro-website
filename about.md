@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+<center>
+  <img src="https://1.bp.blogspot.com/-u4aHDhvKE9o/XewV4A_vroI/AAAAAAAAH28/GwnitVHOYac3zn9xlZf63jnbJqE2fJJvQCNcBGAsYHQ/s400/me_and_ella.jpg" alt="Hiya!" />
+</center>
 
 **Currently,** I'm a Content & QA Manager shifting towards a dev career, learning mainly Python/Django for now. In my free time I'm editing the first draft of my novel as well as researching and writing a non-fiction project (because I hate fun).
 

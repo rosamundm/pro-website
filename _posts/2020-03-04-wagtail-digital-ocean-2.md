@@ -9,7 +9,9 @@ It's true what they say: when you reach a goal in programming, that sense of ach
 
 I was elated when I got my site online. My joy was short-lived — more on that later — but I'm going to publish this post anyway.
 
+<center>
 ![502 bad gateway](https://1.bp.blogspot.com/-m_oHBp4ymaw/Xl_sQYPrfuI/AAAAAAAAH8k/PsO-pn3ETi4S1UVbGbi3JzmGgHVdWc5lwCNcBGAsYHQ/s1600/502%2Bbad%2Bgateway.png)
+</center>
 
 <h3>4. Testing — and not</h3>
 
@@ -57,13 +59,20 @@ And then the website was online at [rosederwelt.com](https://rosederwelt.com), a
 
 Alas, I sabotaged myself when I tried fixing something. When editing a page in the Wagtail admin and previewing it, I got a 400 error. I started to fix this by going in to the admin panel, clicking on clicking on *Settings*, then *Sites*:
 <br>
+<br>
+<center>
 ![Wagtail admin panel](https://1.bp.blogspot.com/-KVMrfRyjOCY/Xl_W3at7MSI/AAAAAAAAH8E/dhypEhUGih0Nm7Iot-Rc5zmdalENQi7JwCNcBGAsYHQ/s1600/wagtail1.png)
 <br>
+<br>
 ![Click on Pages, then Sites](https://1.bp.blogspot.com/-SL0wCMm3v7M/Xl_W3am9VrI/AAAAAAAAH8M/-96QV9nOFzoTAkv7kzZ6UkQhE-azm3IUwCNcBGAsYHQ/s1600/wagtail2.png)
+<br>
 <br>
 From there, click on *localhost* with port *80*. Change the number of the port. Also, I don't think it's mandatory, but I also just changed the port name for clarity. Save.
 
 ![Click on the name of the site. Change the port number and site name.](https://1.bp.blogspot.com/-SZ2M6gMoRoQ/Xl_W3Tcv_GI/AAAAAAAAH8I/u1czBdJF09or0wxJbsqbi4-zUD18Q1FSACNcBGAsYHQ/s1600/wagtail3.png)
+</center>
+<br>
+<br>
 But then none of this mattered anyway, because soon after that, I ended up accidentally deleting half of my virtual environment, and as a result, nothing would run. Unfortunately, simply deleting what was left of the environment and creating a new one didn't have the intended effect; it messed up the paths. Now my Django and Gunicorn installations are out of whack, which I'm still trying to figure out the best way to fix.
 
 As I keep coming back to dealing with this, the thing to remember is that I did it all on my own. Most people build products and apps in teams where different people are responsible for various parts of the process. Not everyone has the patience to stick through the frustration of doing a whole project by themselves. But I did, even when I was convinced I sucked, even when it felt like the odds were against me and none of this was going to lead me anywhere I wanted, professionally or personally.

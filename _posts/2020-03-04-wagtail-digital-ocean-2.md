@@ -8,10 +8,11 @@ The first part of this post is [here](https://rosamundmather.com/2020/01/29/wagt
 It's true what they say: when you reach a goal in programming, that sense of achievement is real. It is something I'd underestimated. Coming from a "creative" background as a writer, creating work you're proud of is quite a different feeling. Maybe it's because you know it's come from *you*, whereas when you get stuff right in programming, you figured something out; something that millions of people have also had to learn and get their heads around. Writing is lonely, but programming, no matter how much some may insist otherwise, is community-based.
 
 I was elated when I got my site online. My joy was short-lived — more on that later — but I'm going to publish this post anyway.
-
-<center>
+<br>
+<br>
 ![502 bad gateway](https://1.bp.blogspot.com/-m_oHBp4ymaw/Xl_sQYPrfuI/AAAAAAAAH8k/PsO-pn3ETi4S1UVbGbi3JzmGgHVdWc5lwCNcBGAsYHQ/s1600/502%2Bbad%2Bgateway.png)
-</center>
+<br>
+<br>
 
 <h3>4. Testing — and not</h3>
 
@@ -60,7 +61,6 @@ And then the website was online at [rosederwelt.com](https://rosederwelt.com), a
 Alas, I sabotaged myself when I tried fixing something. When editing a page in the Wagtail admin and previewing it, I got a 400 error. I started to fix this by going in to the admin panel, clicking on clicking on *Settings*, then *Sites*:
 <br>
 <br>
-<center>
 ![Wagtail admin panel](https://1.bp.blogspot.com/-KVMrfRyjOCY/Xl_W3at7MSI/AAAAAAAAH8E/dhypEhUGih0Nm7Iot-Rc5zmdalENQi7JwCNcBGAsYHQ/s1600/wagtail1.png)
 <br>
 <br>
@@ -68,9 +68,9 @@ Alas, I sabotaged myself when I tried fixing something. When editing a page in t
 <br>
 <br>
 From there, click on *localhost* with port *80*. Change the number of the port. Also, I don't think it's mandatory, but I also just changed the port name for clarity. Save.
-
+<br>
+<br>
 ![Click on the name of the site. Change the port number and site name.](https://1.bp.blogspot.com/-SZ2M6gMoRoQ/Xl_W3Tcv_GI/AAAAAAAAH8I/u1czBdJF09or0wxJbsqbi4-zUD18Q1FSACNcBGAsYHQ/s1600/wagtail3.png)
-</center>
 <br>
 <br>
 But then none of this mattered anyway, because soon after that, I ended up accidentally deleting half of my virtual environment, and as a result, nothing would run. Unfortunately, simply deleting what was left of the environment and creating a new one didn't have the intended effect; it messed up the paths. Now my Django and Gunicorn installations are out of whack, which I'm still trying to figure out the best way to fix.

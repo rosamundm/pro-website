@@ -5,6 +5,4 @@
 layout: home
 ---
 
-
- 
-
+Under reconstruction... in the meantime, <a href="https://rosederwelt.com">visit my new blog</a>!

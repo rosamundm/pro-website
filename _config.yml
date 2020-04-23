@@ -20,8 +20,8 @@
 
 # title: Rosamund Mather
 # description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rosamundmather.com" # the base hostname & protocol for your site
+baseurl: "https://musing-ritchie-ea4abd.netlify.app/" # the subpath of your site, e.g. /blog
+url: "https://musing-ritchie-ea4abd.netlify.app/" # the base hostname & protocol for your site
 # twitter_username: spookytofu
 # github_username:  rosamundm
 
